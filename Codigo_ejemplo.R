@@ -1,4 +1,4 @@
-###EXAMPLE CODE TO ESTIMATE AVERAGE FORCES OF INFECTION
+###EXAMPLE CODE TO ESTIMATE AVERAGE FORCES OF INFECTION_P
 
 #### SOURCE FUNCTIONS
 #This line of code loads functions that will be needed to run the analysis. 
