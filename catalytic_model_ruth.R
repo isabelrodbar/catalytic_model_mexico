@@ -1,6 +1,6 @@
 
 
-#LIKELIHOOD FUNCTION AND OPTIMIZATION CODE
+#LIKELIHOOD FUNCTION AND OPTIMIZATION CODE 
 
 likeli.cons<- function(theta, data, npar) {
 	
